@@ -11,7 +11,7 @@ For a comprehensive overview of our project and its objectives, please refer to 
 
 - **Measurement**: Develop representative metrics to gauge the state of digital equity within Michigan.
   
-- **Evaluation**: Compare our digital equity metric to  ones that are currently in use
+- **Evaluation**: Compare our digital equity metric to  ones that are currently in use.
   
 - **Forecasting**: Design predictive tools and algorithms to anticipate future challenges and growth opportunities in the digital equity space.
 
