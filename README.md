@@ -1,4 +1,4 @@
--# Digital Equity in Michigan: Milestone II Project
+# Digital Equity in Michigan: Milestone II Project
 
 Welcome to our Milestone II project on **Digital Equity**. Our mission is to develop tools that measure and forecast digital equity within the state of Michigan.
 
