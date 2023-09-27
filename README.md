@@ -23,8 +23,6 @@ Details on how to utilize the tools, datasets, and algorithms we've developed wi
 
 We welcome contributions to this project! Whether you're fixing a bug, adding a new feature, or simply improving documentation, your help is greatly appreciated. To ensure a smooth collaboration, please follow these guidelines on how to use GitHub for working on this software project:
 
-## Table of Contents
-
 1. [Getting Started](#getting-started)
 2. [Making Changes](#making-changes)
 3. [Creating Issues](#creating-issues)
