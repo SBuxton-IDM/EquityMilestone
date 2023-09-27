@@ -28,7 +28,7 @@ We welcome contributions to this project! Whether you're fixing a bug, adding a 
 1. [Getting Started](#getting-started)
 2. [Making Changes](#making-changes)
 3. [Creating Issues](#creating-issues)
-5. [Best Practices](#best-practices)
+5. [Making Changes](#best-practices)
 
 ### Getting Started
 
@@ -41,6 +41,17 @@ git clone https://github.com/SBuxton-IDM/EquityMilestone.git
 git branch my_changes
 git checkout my_changes
 ```
+
+### Creating Issues
+Issues are the best way to keep track of things that need to be done. If you find a bug, have a feature request, or want to suggest improvements, please create an issue:
+
+1. Go to the "Issues" tab: Click on the "Issues" tab at the top of the repository.
+
+2. Search for Existing Issues: Before creating a new issue, check if a similar one already exists.
+
+3. Create a New Issue: If it's a new issue, click on the "New Issue" button and fill in the details.
+
+4. Please add appropriate labels. If you want help with something, for example, please assign a teammate to the issue and add the "help wanted" label.
 
 ### Making changes
 **Commit your change and push to your branch**
